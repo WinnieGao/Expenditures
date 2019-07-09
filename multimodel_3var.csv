@@ -1,0 +1,107 @@
+index,N,adj_r2,p value,parameter,HHSIZE,INCOME,ROOMS
+Adjustedtotalexpenditures,21331,0.439,0.0,Beta,0.164,0.703,0.302
+Adjustedtotalexpenditures, , , ,SE,0.013,0.006,0.019
+Alcoholicbeverages,21721,0.106,0.0,Beta,0.166,0.218,0.188
+Alcoholicbeverages, , , ,SE,0.013,0.006,0.018
+Apparelandservices,7211,0.041,0.0,Beta,0.17,0.149,0.258
+Apparelandservices, , , ,SE,0.031,0.015,0.043
+Babysittingandchilddaycare,6113,0.205,0.0,Beta,-0.264,0.216,1.454
+Babysittingandchilddaycare, , , ,SE,0.035,0.015,0.046
+Carsandtrucksnewnetoutlay,25448,0.159,0.0,Beta,0.428,0.273,0.325
+Carsandtrucksnewnetoutlay, , , ,SE,0.014,0.006,0.021
+Carsandtrucksusednetoutlay,286,0.033,0.0,Beta,0.049,0.03,0.201
+Carsandtrucksusednetoutlay, , , ,SE,0.064,0.027,0.088
+Cashcontributions,8023,0.029,0.0,Beta,0.007,0.173,0.297
+Cashcontributions, , , ,SE,0.033,0.016,0.047
+Domesticservices,19732,0.094,0.0,Beta,0.156,0.186,0.432
+Domesticservices, , , ,SE,0.015,0.007,0.022
+Domesticservicesexcludingchildcare,7318,0.174,0.0,Beta,0.434,0.234,1.03
+Domesticservicesexcludingchildcare, , , ,SE,0.034,0.015,0.048
+Education,4987,0.027,0.0,Beta,0.02,0.108,0.261
+Education, , , ,SE,0.034,0.015,0.045
+Entertainment,1705,0.011,0.0,Beta,-0.115,0.081,0.203
+Entertainment, , , ,SE,0.055,0.026,0.08
+Feesandadmissions,23420,0.116,0.0,Beta,0.116,0.217,0.47
+Feesandadmissions, , , ,SE,0.014,0.006,0.019
+Floorcoverings,2410,0.034,0.0,Beta,-0.051,0.204,0.259
+Floorcoverings, , , ,SE,0.058,0.028,0.083
+Foodathome,26710,0.234,0.0,Beta,0.422,0.159,0.195
+Foodathome, , , ,SE,0.008,0.004,0.012
+Foodawayfromhome,26604,0.225,0.0,Beta,0.531,0.084,0.154
+Foodawayfromhome, , , ,SE,0.008,0.004,0.011
+Furniture,2860,0.053,0.0,Beta,0.003,0.157,0.263
+Furniture, , , ,SE,0.037,0.018,0.052
+Healthcare,3253,0.056,0.0,Beta,0.444,0.139,-0.386
+Healthcare, , , ,SE,0.044,0.018,0.051
+Healthinsurance,21358,0.087,0.0,Beta,0.104,0.15,0.604
+Healthinsurance, , , ,SE,0.016,0.007,0.022
+Housefurnishingsandequipment,18315,0.025,0.0,Beta,0.065,0.08,0.099
+Housefurnishingsandequipment, , , ,SE,0.011,0.005,0.016
+Householdoperations,16250,0.068,0.0,Beta,0.258,0.032,0.303
+Householdoperations, , , ,SE,0.011,0.005,0.02
+Householdtextiles,11162,0.049,0.0,Beta,0.185,0.167,0.386
+Householdtextiles, , , ,SE,0.027,0.013,0.038
+Housing,12961,0.053,0.0,Beta,-0.198,0.237,0.171
+Housing, , , ,SE,0.022,0.01,0.029
+Localpublictransportationexcludingontrips,2493,0.036,0.0,Beta,0.183,0.168,0.226
+Localpublictransportationexcludingontrips, , , ,SE,0.061,0.028,0.077
+Maintenanceandrepairs,8039,0.014,0.0,Beta,0.145,0.084,0.026
+Maintenanceandrepairs, , , ,SE,0.024,0.012,0.037
+Majorappliances,823,0.054,0.0,Beta,0.002,0.138,0.838
+Majorappliances, , , ,SE,0.115,0.055,0.163
+Medicalservices,19191,0.07,0.0,Beta,0.23,0.073,0.393
+Medicalservices, , , ,SE,0.014,0.006,0.02
+Medicalsupplies,8554,0.017,0.0,Beta,-0.015,0.046,0.367
+Medicalsupplies, , , ,SE,0.028,0.012,0.038
+Miscellaneousexpenditures,5346,0.023,0.0,Beta,0.113,0.066,0.135
+Miscellaneousexpenditures, , , ,SE,0.025,0.012,0.036
+Miscellaneoushouseholdequipment,2579,0.048,0.0,Beta,0.001,0.127,0.306
+Miscellaneoushouseholdequipment, , , ,SE,0.037,0.017,0.052
+Otherentertainment,8179,0.05,0.0,Beta,-0.036,0.165,0.385
+Otherentertainment, , , ,SE,0.025,0.012,0.038
+Otherequipmentandservices,21562,0.03,0.0,Beta,0.076,0.06,0.284
+Otherequipmentandservices, , , ,SE,0.013,0.006,0.018
+Otherhouseholdexpenses,1717,0.053,0.0,Beta,-0.233,0.25,0.104
+Otherhouseholdexpenses, , , ,SE,0.081,0.028,0.083
+Otherlodging,26278,0.1,0.0,Beta,0.21,0.275,-0.141
+Otherlodging, , , ,SE,0.014,0.006,0.019
+Othervehicles,747,0.059,0.0,Beta,-0.146,0.267,0.349
+Othervehicles, , , ,SE,0.095,0.048,0.136
+Personalcare,3749,0.034,0.0,Beta,0.032,0.18,0.337
+Personalcare, , , ,SE,0.048,0.023,0.069
+Personalinsuranceandpensions,12475,0.086,0.0,Beta,-0.132,0.264,0.706
+Personalinsuranceandpensions, , , ,SE,0.026,0.012,0.036
+Petstoysandplaygroundequipment,10010,0.058,0.0,Beta,0.04,0.196,0.412
+Petstoysandplaygroundequipment, , , ,SE,0.025,0.012,0.037
+Prescriptiondrugs,8195,0.035,0.0,Beta,0.067,0.136,0.449
+Prescriptiondrugs, , , ,SE,0.033,0.015,0.045
+Publicandothertransportation,9690,0.021,0.0,Beta,0.095,0.181,0.069
+Publicandothertransportation, , , ,SE,0.034,0.015,0.048
+Publicandothertransportationontrips,5238,0.076,0.0,Beta,0.098,0.273,0.308
+Publicandothertransportationontrips, , , ,SE,0.043,0.019,0.052
+Reading,16307,0.084,0.0,Beta,0.193,0.18,0.257
+Reading, , , ,SE,0.016,0.007,0.022
+Shelter,26810,0.188,0.0,Beta,0.242,0.223,0.184
+Shelter, , , ,SE,0.009,0.004,0.013
+Smallappliancesmiscellaneoushousewares,1854,0.081,0.0,Beta,-0.077,0.082,0.928
+Smallappliancesmiscellaneoushousewares, , , ,SE,0.055,0.026,0.085
+Telephoneservices,3951,0.043,0.0,Beta,-0.068,0.209,0.249
+Telephoneservices, , , ,SE,0.043,0.018,0.058
+Televisionsradiosandsoundequipment,9454,0.096,0.0,Beta,0.203,0.238,0.384
+Televisionsradiosandsoundequipment, , , ,SE,0.026,0.012,0.035
+Tobaccoandsmokingsupplies,2610,0.064,0.0,Beta,-0.527,0.285,0.521
+Tobaccoandsmokingsupplies, , , ,SE,0.065,0.029,0.09
+Totalexpenditures,26856,0.323,0.0,Beta,0.252,0.285,0.334
+Totalexpenditures, , , ,SE,0.008,0.004,0.012
+Totalfood,26856,0.323,0.0,Beta,0.252,0.285,0.334
+Totalfood, , , ,SE,0.008,0.004,0.012
+Transportation,16366,0.117,0.0,Beta,0.441,0.21,0.243
+Transportation, , , ,SE,0.019,0.009,0.026
+Vehiclefinancecharges,42,0.015,0.004,Beta,0.377,0.217,-0.872
+Vehiclefinancecharges, , , ,SE,0.43,0.252,0.557
+Vehicleinsurance,11060,0.011,0.0,Beta,0.086,0.118,0.109
+Vehicleinsurance, , , ,SE,0.03,0.014,0.045
+Vehiclerentalleaseslicensesandothercharges,9463,0.085,0.0,Beta,0.138,0.112,0.257
+Vehiclerentalleaseslicensesandothercharges, , , ,SE,0.014,0.007,0.021
+Waterandotherpublicservices,24209,0.14,0.0,Beta,0.336,0.146,0.227
+Waterandotherpublicservices, , , ,SE,0.01,0.005,0.015
