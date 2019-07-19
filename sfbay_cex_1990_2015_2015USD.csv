@@ -1,0 +1,9 @@
+YEAR,LOCATION,TotalExpenditures,TotalFood,FoodAtHome,FoodAwayFromHome,AlcoholicBeverages, Cerealsandbakeryproducts , Meatspoultryfishandeggs , Dairyproducts , Fruitsandvegetables , Otherfoodathome ,Housing,Shelter,OtherLodging,UtilitiesFuelsAndPublicServices,HouseholdOperations, Housekeepingsupplies ,HouseFurnishingsAndEquipment,HouseholdTextiles,Furniture,FloorCoverings,MajorAppliances,SmallAppliancesMiscHousewares,MiscHoushouseholdEquipment,ApparelAndServices,Transportation, Vehiclepurchases.netoutlay. , Gasolineotherfuelsandmotoroil , Othervehicleexpenses ,PublicAndOtherTransportation,PublicAndOtherTransportationOnTrips,LocalPublicTransportationExclOnTrips,Healthcare,Entertainment,EntertainmentGoods,EntertainmentServices, PersonalCareProductsAndServices ,Reading,Education,TobaccoAndSmokingSupplies,MiscellaneousExpenditures,CashContributions,PersonalInsuranceAndPensions
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1990,SFBayArea,71227,9683,5030,4653,977,798,1188,593,922,1530,25117,17289,1683,3017,1283,911,2617,157,785,105,340,131,1099,4677,11838,4702,1874,4080,1182,1017,165,2466,3958,2177,1781,816,371,661,375,1702,2121,6464
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2000,SFBayArea,75971,10272,6011,4260,1078,940,1527,580,1104,1862,27167,17893,1013,3073,2039,821,3342,201,1003,134,434,167,1404,4330,13425,6086,1966,4130,1242,1018,224,2802,3161,1739,1422,955,317,1335,306,1412,1248,8164
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2010,SFBayArea,73713,8667,4611,4056,740,630,923,500,1007,1552,28745,21000,1557,3509,1639,669,1928,135,578,58,308,116,752,2440,9312,2689,2113,3346,1162,953,209,3787,3410,2080,1330,856,173,1919,167,1179,2211,10108
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2015,SFBayArea,71433,8612,4114,4498,1005,489,945,427,955,1298,26483,18724,1034,3493,2171,581,1514,76,500,106,288,61,484,2366,9911,2677,2219,3411,1603,1314,289,4685,3318,1924,1394,845,147,1806,133,780,2262,9079
